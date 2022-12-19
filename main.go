@@ -13,9 +13,6 @@ import (
 	"time"
 )
 
-// # cd fifa-update
-// # go mod tidy && go build . && ./fifa-update
-
 const DateTimBarFormat = "2006-01-02 15:04:05"
 
 // FifaApi 数据源 api 的地址

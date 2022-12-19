@@ -2,7 +2,7 @@
 
 <img src="images/ServerScreenshot.png" width="300" alt="ServerScreenshot"/>
 
-<img src="images/WeComScreenshot.png" width="247" height="386" alt="WeComScreenshot" />
+<img src="images/WecomScreenshot.png" width="247" height="386" alt="WeComScreenshot" />
 
 [[English Version](#2022-fifa-score-update)]
 
